@@ -1,0 +1,511 @@
+.iconHome{
+	
+
+}
+.spaceIcon{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	display: inline-block;
+	padding-left: 27px;
+}
+.logoHome{
+	padding-left: 700px;
+}
+.navbar{
+	background-color: #00aeff;
+}
+.navbar-contactus{
+	background-color: #00aeff;
+	margin-bottom: 30px;
+}
+.navbar-content{
+	display: inline-block;
+	padding-right: 235px;
+	padding-left: 35px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.navbar-content-login{
+	display: inline-block;
+	padding-left: 45px;
+
+}
+.content{
+	background-color: white;
+}
+
+.bar-jenis{
+	text-align: center;
+	background-color: #00aeff;
+	margin-bottom: 10px;
+}
+.discuss-css{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 45px;
+	background-color: #00aeff;
+	font-size: 55px;
+	font-family: James Fajardo;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.pet-css{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 45px;
+	background-color: #00aeff;
+	font-size: 55px;
+	font-family: James Fajardo;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.pet-stray{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 45px;
+	background-color: #00aeff;
+	font-size: 55px;
+	font-family: James Fajardo;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.mate-css{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 45px;
+	background-color: #00aeff;
+	font-size: 55px;
+	font-family: James Fajardo;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.donate-css{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 45px;
+	background-color: #00aeff;
+	font-size: 55px;
+	font-family: James Fajardo;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.biodata-nama{
+	padding-left: 25px;
+	text-align: left;
+	font-size: 85px;
+	margin-bottom: 0px;
+}
+.biodata-info{
+	padding-left: 25px;
+	text-align: left;
+	font-size: 35px;
+}
+.biodata-grade{
+	text-align: left;
+	padding-left: 25px;
+	font-size: 35px;
+}
+.companyprofile{
+	text-align: center;
+}
+.companyprofile-pengenalan{
+	padding-left: 70px;
+	padding-right: 70px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-family: calibri;
+	text-align: justify;
+}
+.founder{
+	text-align: center;
+	font-family: James Fajardo;
+	font-size: 75px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+}
+.pengenalan{
+	text-align: center;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+.pengenalanCEO{
+	background-color: #00aeff;
+}
+.pengenalanCFO{
+	background-color: #00aeff;
+}
+.pengenalanSupir{
+	background-color: #00aeff;
+}
+.isi-pengenalan-white{
+	text-align: justify;
+	background-color: #00aeff;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.isi-pengenalan-blue{
+	text-align: justify;
+	background-color: #ffffff;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.isi-pengenalan-white{
+	text-align: justify;
+	background-color: #00aeff;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.isi-pengenalan-blue{
+	text-align: justify;
+	background-color: #00aeff;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.jabatan{
+	padding-top: 25px;
+	text-align: center;
+	font-family: James Fajardo;
+	font-size:70px;
+}
+.get-in-touch01{
+	background-color: #00aeff;
+	padding-left: 450px;
+	padding-right: 230px;
+	font-size: 65px;
+	font-family: James Fajardo;
+	color: white;
+}
+.get-in-touch-kiri{
+	background-color: #00aeff;
+	font-size: 20px;
+	padding-left: 350px;
+	padding-right: 900px;
+	padding-bottom: 20px;
+	text-align: justify;
+}
+.get-in-touch02{
+	background-color: #00aeff;
+	padding-left: 1000px;
+	padding-right: 0px;
+	font-size: 65px;
+	font-family: James Fajardo;
+	color: white;
+}
+.get-in-touch-kanan{
+	background-color: #00aeff;
+	font-size: 20px;
+	padding-left: 900px;
+	padding-right: 350px;
+	padding-bottom: 20px;
+	text-align: justify;
+}
+.bagian-kiri{
+	display: inline-block;
+}
+.bagian-kanan{
+	display: inline-block;
+}
+.logo-logo{
+	text-align: center;
+}
+.sendmessage{
+	margin-top: 25px;
+	text-align: center;
+	background-color: #00aeff;
+}
+.formLogin{
+	border:9px black ;
+	text-align: center;
+	padding: 40px;
+	margin-top: -25px;
+	margin-left: 610px;
+	background-color: #00aeff;
+	color: white;
+	display: inline-block;
+	font-family: James Fajardo;
+	font-size: 40px;
+}
+.formMessage{
+	border:9px black ;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 630px;
+	padding: 40px;
+	background-color: #00aeff;
+	color: white;
+	display: inline-block;
+}
+.video-content{
+	text-align: center;
+	background-color: #00aeff;
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+.formRegis{
+	border:9px black ;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 630px;
+	padding: 40px;
+	background-color: #00aeff;
+	color: white;
+	display: inline-block;
+}
+.slider{
+	overflow: hidden;
+	height: 383px;
+	width: 683px;
+	margin-left: 420px;
+	margin-top: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	}
+.slider figure img{
+	width: 100%;
+	float: left;
+	}
+.slider figure{
+	position: relative;
+	width: 500%;
+	margin: 0;
+	left: 0;
+	animation: 20s slider infinite;
+	}
+.slider-background{
+	background-color: #00aeff;
+}
+.slider-home{
+	overflow: hidden;
+	height: 383px;
+	width: 683px;
+	margin-left: 420px;
+	margin-top: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.slider-home figure img{
+	width: 100%;
+	float: left;
+}
+.slider-home figure{
+	position: relative;
+	width: 500%;
+	margin: 0;
+	left: 0;
+	animation: 20s slider-home infinite;
+}
+@keyframes slider {
+	0%{
+		left: 0;
+	}
+	10%{
+		left: 0;
+	}
+	12%{
+		left: -100%;
+	}
+	22%{
+		left: -100%;
+	}
+	24%{
+		left: -200%;
+	}
+	34%{
+		left: -200%;
+	}
+	36%{
+		left: -300%;
+	}
+	46%{
+		left: -300%;
+	}
+	48%{
+		left: -400%;
+	}
+	58%{
+		left: -400%;
+	}
+	60%{
+		left: -300%;
+	}
+	70%{
+		left: -300%;
+	}
+	72%{
+		left: -200%;
+	}
+	82%{
+		left: -200%;
+	}
+	84%{
+		left: -100%;
+	}
+	94%{
+		left: -100%;
+	}
+	96%{
+		left: 0%;
+	}
+}
+@keyframes slider-home {
+	0%{
+		left: 0;
+	}
+	10%{
+		left: 0;
+	}
+	12%{
+		left: -100%;
+	}
+	22%{
+		left: -100%;
+	}
+	24%{
+		left: -200%;
+	}
+	34%{
+		left: -200%;
+	}
+	36%{
+		left: -300%;
+	}
+	46%{
+		left: -300%;
+	}
+	48%{
+		left: -400%;
+	}
+	58%{
+		left: -400%;
+	}
+	60%{
+		left: -300%;
+	}
+	70%{
+		left: -300%;
+	}
+	72%{
+		left: -200%;
+	}
+	82%{
+		left: -200%;
+	}
+	84%{
+		left: -100%;
+	}
+	94%{
+		left: -100%;
+	}
+	96%{
+		left: 0%;
+	}
+}
+.profile{
+	text-align: center;
+	margin-top: 25px;
+}
+.profile-photo{
+	height: 383px;
+	width: 683px;
+	text-align: center;
+	background-color: #00aeff;
+	padding-top: 25px;
+	margin-top: 25px;
+	padding-right: 410px;
+	padding-left: 410px;
+}
+.profile-name{
+	font-family: James Fajardo;
+	font-size: 100px;
+	text-align: center;
+	background-color: #00aeff;
+}
+.choose{
+	margin-top: 25px;
+	background-color: #00aeff;
+	margin-bottom: 25px;
+	text-align: center;
+}
+.choose-content{
+	margin-left: 150px;
+	margin-right: 150px;
+	display: inline-block;
+}
+.biodata-background{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-size: 25px;
+	background-color: #00aeff;
+	text-align: justify;
+}
+.gear-background{
+	text-align: center;
+	font-size: 40px;
+	font-family: calibri;
+	background-color: #00aeff;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+.submit-button{
+	position: fixed;
+	background-color: #ffffff;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 999;
+	opacity: 0;
+	pointer-events: none;
+	transition: all 0.3s;
+}
+.submit-button:target {
+	opacity: 1;
+	pointer-events: auto;
+}
+.submit-button>div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 2rem;
+	background: #00aeff;
+	color: black;
+}
+.submit-button header {
+	font-weight: bold;
+}
+.close-button{
+	color: #aaa;
+	line-height: 50px;
+	font-size: 80%;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 0;
+	width: 70px;
+	text-decoration: none;
+}
+.close-button:hover {
+	color: #000;
+}
+.submit-button h1 {
+	font-size: 150%;
+	margin: 0 0 15px;
+}
+.logged-in{
+	font-family: James Fajardo;
+	color: white;
+	font-size: 50px;
+}
